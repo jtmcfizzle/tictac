@@ -1,0 +1,12 @@
+SPRITES:
+
+Sprites are images. Everything that the player sees has a sprite associated with it.
+
+OBJECTS:
+
+Objects are the core of a game. They contain events, which look for some specific condition (such as the mouse button being
+pressed) and actions, which are what the object does (such as move).
+
+ROOMS:
+
+Rooms are the levels of the game. You put objects in rooms in order to have the player interact with them.
